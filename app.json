@@ -68,6 +68,14 @@
       "size": "free"
     }
   },
+  "buildpacks": [
+    {
+      "url": "https://github.com/grauwoelfchen/heroku-buildpack-gettext.git"
+    },
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
   "addons": [
     {
       "plan": "papertrail:choklad"
