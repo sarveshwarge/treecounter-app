@@ -144,7 +144,8 @@
     "tcomb-json-schema": "^0.3.2",
     "uuid": "^7.0.1",
     "yup": "^0.28.1",
-    "webpack": "^4.41.6"
+    "webpack": "^4.41.6",
+    "live-server": "^1.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
