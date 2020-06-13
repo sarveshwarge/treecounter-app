@@ -1,1 +1,1 @@
-web: node_modules/.bin/live-server web --port=$PORT
+web: node_modules/.bin/live-server web/prod --port=$PORT
